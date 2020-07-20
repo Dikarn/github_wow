@@ -1,5 +1,5 @@
 name= input('Ваше имя: ')
-height = float(input('Ваш рост: '))
+height = float(input('Ваш рddост: '))
 weight = float(input('Ваш вес: '))
 
 bmi = weight / (height ** 2)
